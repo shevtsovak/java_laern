@@ -1,8 +1,7 @@
 package ru.stqa.pft.sandbox;
 
-public class first_file {
-
+public class FirstFile {
     public static void main(String[] args) {
-    System.out.println("Hello, world!");
+        System.out.println("Hello, world!");
     }
-    }  
+}
