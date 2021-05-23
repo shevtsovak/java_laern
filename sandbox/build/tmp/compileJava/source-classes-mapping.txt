@@ -1,2 +1,2 @@
-hh.java
- hh
+ru.stqa.pft.sandbox.first_file.java
+ ru.stqa.pft.sandbox.first_file
